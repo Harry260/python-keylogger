@@ -6,13 +6,13 @@ This project is only for demonstration/educational purpose and I am not responsi
 
 # ⚙️ Setup
 
-## 📃 Prerequisite
+### 📃 Prerequisite
 
 - [Python 3 ](https://www.python.org/downloads/)
 - A discord server with webhook integration
 - [Install requirements.txt](requirements.txt)
 
-## 🪚 requirements
+### 🪚 requirements
 For setup, you have to install the requirements, for that go to the root directory and run the following command
 
 ```
