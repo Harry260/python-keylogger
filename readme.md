@@ -3,7 +3,8 @@ This is a keylogger made with python that log the data to your discord server wi
 
 - [Setup](#%EF%B8%8F-warning)
 - [Configuration](#%EF%B8%8F-configuration)
-- [Live Example](#⚒️-Example)
+- [Live Example](#%EF%B8%8F-example)
+- [Support](#-support)
 
 ## ⚠️ Warning
 This project is only for demonstration/educational purpose and I am not responsible for anything. Use at your own risk!
